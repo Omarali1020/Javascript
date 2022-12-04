@@ -1,6 +1,6 @@
 // document.getElementById("count").innerText = 5
 
-let count = 0
+let count = 2
 
 console.log(count)
 
